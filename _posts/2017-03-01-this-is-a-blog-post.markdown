@@ -21,6 +21,6 @@ Options in blog posting include bold text,
 
 [Link](http://www.google.com)
 
-Pictures: ![crazy-transparent-small.png](/uploads/crazy-transparent-small.png)
+Pictures: ![crazy-transparent-small.png](/githubpagestest/uploads/crazy-transparent-small.png)
 
 > Block quotes
