@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Another Blog Post
+date: 2017-03-01 00:00:00 Z
+layout: post
 ---
-
 
 Ah, neat, I have an **editor** to work on this.
 

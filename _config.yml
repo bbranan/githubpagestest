@@ -1,15 +1,25 @@
+---
+title: Your awesome title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  services:
+    title: Services
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: services
+  values:
+    layout: post
 paginate: 5
 paginate_path: "/blog/page:num"
-collections:
-  services:
-    output: true
 name: Creative Agency
-description: "We are a creative agency who provides web design, SEO, content and social services."
-url: "http://creative.com"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "post"
+description: We are a creative agency who provides web design, SEO, content and social
+  services.
+url: http://creative.com
